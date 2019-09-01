@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSam", "ApiSam\src\ApiSam\ApiSam.csproj", "{9496C21D-809C-43D1-A0D0-EEECF40B69AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSam", "ApiSam\ApiSam.csproj", "{9496C21D-809C-43D1-A0D0-EEECF40B69AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
